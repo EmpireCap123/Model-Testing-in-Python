@@ -1,0 +1,20 @@
+# REGRESSSION MODELS
+# Rsquared
+# Adjusted Rsquared (penalizes for more variables)
+# Squared Error (Sum or Mean)
+# Absolute Error (Sum or Mean)
+# Variance Score (1 is perfect)
+
+# CLASSIFICATION MODELS
+# Percentage of accurate predictions
+# Confusion Matrix
+# - classification accuracy (can adjust the classification threshold)
+# - classification error
+# - sensitivity
+# - specificity
+# - false positive rate
+# - precision
+# Receiver Operating Characteristic (ROC) Curves
+# - Area Under Curve (AUC) (higher value = better, 1.0 is perfect)
+
+# Lift Curve - rank order all estimates and compare against actual 
